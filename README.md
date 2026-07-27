@@ -1,0 +1,139 @@
+[![header banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:22D3EE,100:9B8CFF&height=200&section=header&text=Daksh%20Singhal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE&descSize=20&descAlignY=60&animation=fadeIn)](https://github.com/Daksh12345-del)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=6C63F1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Daksh+Singhal+%F0%9F%91%8B;Full-Stack+Developer+%7C+React+%C2%B7+Node.js+%C2%B7+PostgreSQL;I+build+products+people+actually+use;From+first+commit+to+production+%E2%80%94+solo." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daksh-singhal-178b56282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:psinghal651@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="/Daksh_Singhal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Daksh12345-del&label=Profile%20views&color=6366F1&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/Daksh12345-del/Daksh12345-del/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/Daksh12345-del/Daksh12345-del/output/snake.svg" alt="Contribution snake animation" />
+  </a>
+</p>
+
+## 🧭 About Me
+
+```
+name:      Daksh Singhal
+role:      Full-Stack Developer · B.Tech CSE Undergraduate
+based in:  New Delhi, India
+building:  Scalable, user-focused web apps — SaaS, client sites & automation tooling
+stack:     React · Node.js · Express.js · PostgreSQL · Tailwind CSS · AWS
+mindset:   Ship real products, from first commit to production — then iterate.
+```
+
+- 🚀 I build **full-stack products people actually use** — SaaS platforms, client websites, and automation tooling, most recently as an **IT Trainee at BLS International**.
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** at ABES Engineering College (AKTU).
+- 🛠️ Founder of **GradeWallah** — a SaaS platform for SGPA/CGPA tracking with a scalable PostgreSQL schema, built solo from idea to production.
+- 💼 Solo-shipped **6 live client/production websites** — including a college admission platform, a real-estate discovery site, and an NGO donation platform.
+- 🧪 Automate what I can — Selenium test suites, REST APIs, and AI-assisted tooling (Groq API).
+- 🌱 Open-source contributor — **GSSoC '25** and **Hacktoberfest '25**.
+- 💬 Ask me about React/Node full-stack architecture, PostgreSQL schema design, or turning a client brief into a shipped product.
+
+## 🚀 Featured Projects
+
+| Project | Focus | Core Stack |
+|---|---|---|
+| **[🎓 GradeWallah](https://github.com/Daksh12345-del/GRADEWISE_PROJECT)** · [live ↗](https://www.gradewallah.com) | SaaS for SGPA/CGPA tracking & academic analytics | `React` `Node.js` `Express` `PostgreSQL` |
+| **[🏫 Sarvpratham Edu Consultants](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://www.sarvprathameduconsultants.com) | College admission & counselling platform (client) | `React` `Express` `PostgreSQL` `WhatsApp API` |
+| **[🏢 Prime Builders](https://github.com/Daksh12345-del/prime_builders)** · [live ↗](https://www.primebuilders.co.in) | Real-estate discovery platform (client) | `React` `Tailwind` `Node.js` `Maps API` |
+| **[📊 DU College Predictor](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://sarvprathameduconsultants.com/college-predictor.html) | CUET-based DU admission predictor | `JavaScript` `HTML` `CSS` |
+| **[🛂 BLS Visa Appointment Portal](https://github.com/Daksh12345-del/BLS_USER_INTERNSHIP)** | Multi-step visa portal + admin panel (internship) | `React` `Express` `PostgreSQL` `Selenium` |
+| **[🌿 GreenPrint](https://github.com/Daksh12345-del/GREEN_PRINT_FRONTEND)** · [live ↗](https://green-print-frontend.vercel.app) | Live carbon/ESG scoring platform | `React (Vite)` `Node.js` `Express` |
+
+### 🎓 [GradeWallah](https://github.com/Daksh12345-del/GRADEWISE_PROJECT) · [Live ↗](https://www.gradewallah.com)
+
+Founded and built a **full-stack SaaS platform** for SGPA/CGPA calculation and semester-wise academic tracking, backed by a scalable PostgreSQL schema supporting multi-semester data, user accounts, and analytics.
+
+- Scalable PostgreSQL schema for multi-semester academic data
+- Placement resources & internship listings
+- DSA roadmap and performance analytics
+- PDF report generation & study recommendations
+- Secure authentication with responsive dashboards
+- `React.js` · `Node.js` · `Express.js` · `PostgreSQL` · `Tailwind CSS` · `Vercel`
+
+### 🏫 [Sarvpratham Edu Consultants](https://github.com/Daksh12345-del/COUNSELLING) · [Live ↗](https://www.sarvprathameduconsultants.com)
+
+Solo-developed and deployed a **college admission platform for a real client** — a DU College Predictor, counselling package listings, enquiry management, and WhatsApp-based lead generation, live in production on a custom domain.
+
+- DU College Predictor (Round 1, category-wise, source-verified)
+- Counselling package listings across 20+ streams
+- PostgreSQL schema for enquiry/lead tracking
+- REST API endpoints for CRUD operations
+- WhatsApp-based lead generation
+- `React.js` · `Express.js` · `PostgreSQL` · `Tailwind CSS` · `WhatsApp API`
+
+### 📊 [DU College Predictor](https://github.com/Daksh12345-del/COUNSELLING) · [Live ↗](https://sarvprathameduconsultants.com/college-predictor.html)
+
+A CUET UG college & course predictor for Delhi University applicants — enter stream, category, and CUET marks to get a weighted, transparent chance-prediction across DU colleges, verified against source cutoff PDFs.
+
+- Stream, category & course-based CUET input
+- Best-4-of-5 paper scoring exactly as DU counts
+- Round 1 category-wise, source-verified cutoff data
+- Full cutoff list browser
+- Talk-to-a-counsellor handoff
+- `JavaScript` · `HTML` · `CSS` · Chart-based scoring logic
+
+### 🛂 [BLS International — Visa Appointment Portal](https://github.com/Daksh12345-del/BLS_USER_INTERNSHIP)
+
+Built solo during my internship — a multi-step visa application flow with email OTP verification, document upload with a live checklist, and reference number generation, plus a full Admin Control Panel. Shipped across **3 repositories in 2 months**.
+
+- Multi-step visa application flow with email OTP verification
+- Document upload with live checklist & reference number generation
+- Admin panel: counters, city/country config, time-slot scheduling
+- Groq API integration for AI-assisted features
+- 7 automated Selenium test cases (login & booking flows)
+- `React.js` · `Express.js` · `PostgreSQL` · `Groq API` · `Selenium`
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Testing & Tools**
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## 📊 GitHub Analytics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/Daksh12345-del)
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Daksh12345-del&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Daksh12345-del)
+
+## 🎓 Education
+
+- **B.Tech, Computer Science & Engineering** — ABES Engineering College, AKTU, Ghaziabad *(2024–2028, ongoing)*
+- **Class 12** — Modern Convent School, Dwarka, New Delhi — 85.2%
+- **Class 10** — Modern Convent School, Dwarka, New Delhi — 89.8%
+
+## 🤝 Let's Connect
+
+I'm always up for a good conversation — collaboration, freelance/internship opportunities, or full-stack project ideas.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daksh-singhal-178b56282/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:psinghal651@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+*"Ship real, production-shaped software — then iterate."*
