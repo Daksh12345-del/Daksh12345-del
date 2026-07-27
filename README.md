@@ -93,6 +93,8 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -109,13 +111,20 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+</p>
+
 ## 📊 GitHub Analytics
+
+<p align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&column=7&margin-w=8&row=1)](https://github.com/Daksh12345-del)
+
+</p>
+
 
 ## 📈 Contribution Graph
 
