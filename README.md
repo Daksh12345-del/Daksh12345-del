@@ -1,21 +1,21 @@
 [![header banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:22D3EE,100:9B8CFF&height=200&section=header&text=Daksh%20Singhal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE&descSize=20&descAlignY=60&animation=fadeIn)](https://github.com/Daksh12345-del)
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daksh+Singhal+%F0%9F%91%8B;Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+PostgreSQL;I+build+products+people+actually+use;First+commit+to+production+%E2%80%94+solo." alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/daksh-singhal-178b56282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:psinghal651@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="/Daksh_Singhal_Resume.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Daksh12345-del&label=Profile%20views&color=6366F1&style=for-the-badge" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://raw.githubusercontent.com/Daksh12345-del/Daksh12345-del/output/snake.svg">
     <img src="https://raw.githubusercontent.com/Daksh12345-del/Daksh12345-del/output/snake.svg" alt="Contribution snake animation" />
   </a>
-</p>
+</div>
 
 ## 🧭 About Me
 
@@ -93,7 +93,7 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
 **Languages**
 
@@ -111,11 +111,11 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</p>
+</div>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del)
 
@@ -123,7 +123,7 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&column=7&margin-w=8&row=1)](https://github.com/Daksh12345-del)
 
-</p>
+</div>
 
 
 ## 📈 Contribution Graph
@@ -140,9 +140,9 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 I'm always up for a good conversation — collaboration, freelance/internship opportunities, or full-stack project ideas.
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/daksh-singhal-178b56282/"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:psinghal651@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
 
 *"Ship real, production-shaped software — then iterate."*
