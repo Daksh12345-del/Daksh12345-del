@@ -40,12 +40,12 @@ mindset:   Ship real products, from first commit to production — then iterate.
 
 | Project | Focus | Core Stack |
 |---|---|---|
-| **[🎓 GradeWallah](https://github.com/Daksh12345-del/GRADEWISE_PROJECT)** · [live ↗](https://www.gradewallah.com) | SaaS for SGPA/CGPA tracking & academic analytics | `React` `Node.js` `Express` `PostgreSQL` |
-| **[🏫 Sarvpratham Edu Consultants](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://www.sarvprathameduconsultants.com) | College admission & counselling platform (client) | `React` `Express` `PostgreSQL` `WhatsApp API` |
-| **[🏢 Prime Builders](https://github.com/Daksh12345-del/prime_builders)** · [live ↗](https://www.primebuilders.co.in) | Real-estate discovery platform (client) | `React` `Tailwind` `Node.js` `Maps API` |
-| **[📊 DU College Predictor](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://sarvprathameduconsultants.com/college-predictor.html) | CUET-based DU admission predictor | `JavaScript` `HTML` `CSS` |
-| **[🛂 BLS Visa Appointment Portal](https://github.com/Daksh12345-del/BLS_USER_INTERNSHIP)** | Multi-step visa portal + admin panel (internship) | `React` `Express` `PostgreSQL` `Selenium` |
-| **[🌿 GreenPrint](https://github.com/Daksh12345-del/GREEN_PRINT_FRONTEND)** · [live ↗](https://green-print-frontend.vercel.app) | Live carbon/ESG scoring platform | `React (Vite)` `Node.js` `Express` |
+| **[🎓 GradeWallah](https://github.com/Daksh12345-del/GRADEWISE_PROJECT)** · [live ↗](https://www.gradewallah.com) | SaaS for SGPA/CGPA tracking & academic analytics | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[🏫 Sarvpratham Edu Consultants](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://www.sarvprathameduconsultants.com) | College admission & counselling platform (client) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[🏢 Prime Builders](https://github.com/Daksh12345-del/prime_builders)** · [live ↗](https://www.primebuilders.co.in) | Real-estate discovery platform (client) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **[📊 DU College Predictor](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://sarvprathameduconsultants.com/college-predictor.html) | CUET-based DU admission predictor | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **[🛂 BLS Visa Appointment Portal](https://github.com/Daksh12345-del/BLS_USER_INTERNSHIP)** | Multi-step visa portal + admin panel (internship) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
+| **[🌿 GreenPrint](https://github.com/Daksh12345-del/GREEN_PRINT_FRONTEND)** · [live ↗](https://green-print-frontend.vercel.app) | Live carbon/ESG scoring platform | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ### 🎓 [GradeWallah](https://github.com/Daksh12345-del/GRADEWISE_PROJECT) · [Live ↗](https://www.gradewallah.com)
 
@@ -111,11 +111,11 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&column=7&margin-w=8)](https://github.com/Daksh12345-del)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&column=7&margin-w=8&row=1)](https://github.com/Daksh12345-del)
 
 ## 📈 Contribution Graph
 
