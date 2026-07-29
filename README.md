@@ -117,7 +117,7 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del)
+[![GitHub Stats](https://github-readme-stats-virid-one-53.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats-virid-one-53.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
 
