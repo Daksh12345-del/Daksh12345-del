@@ -1,5 +1,13 @@
 [![header banner](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:22D3EE,100:9B8CFF&height=200&section=header&text=Daksh%20Singhal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20B.Tech%20CSE&descSize=20&descAlignY=60&animation=fadeIn)](https://github.com/Daksh12345-del)
 
+<h3 align="center">daksh@github ~ $ whoami</h3>
+
+<p align="center">
+  <img src="portrait.svg" alt="portrait" width="280"/>
+  &nbsp;&nbsp;
+  <img src="wordmark.svg" alt="DAKSH" width="380"/>
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=6C63F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daksh+Singhal+%F0%9F%91%8B;Full-Stack+Developer;React+%C2%B7+Node.js+%C2%B7+PostgreSQL;I+build+products+people+actually+use;First+commit+to+production+%E2%80%94+solo." alt="Typing SVG" />
 </div>
@@ -121,7 +129,7 @@ Built solo during my internship — a multi-step visa application flow with emai
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&column=7&margin-w=8&row=1)](https://github.com/Daksh12345-del)
+
 
 </div>
 
