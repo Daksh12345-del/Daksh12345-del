@@ -3,9 +3,9 @@
 <h3 align="center">daksh@github ~ $ whoami</h3>
 
 <p align="center">
-  <img src="portrait.svg" alt="portrait" width="280"/>
+  <img src="portrait.svg" alt="portrait" width="350"/>
   &nbsp;&nbsp;
-  <img src="wordmark.svg" alt="DAKSH" width="380"/>
+  <img src="wordmark.svg" alt="DAKSH" width="350"/>
 </p>
 
 <div align="center">
