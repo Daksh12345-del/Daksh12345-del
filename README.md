@@ -53,7 +53,7 @@ mindset:   Ship real products, from first commit to production — then iterate.
 | **[🏢 Prime Builders](https://github.com/Daksh12345-del/prime_builders)** · [live ↗](https://www.primebuilders.co.in) | Real-estate discovery platform (client) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 | **[📊 DU College Predictor](https://github.com/Daksh12345-del/COUNSELLING)** · [live ↗](https://sarvprathameduconsultants.com/college-predictor.html) | CUET-based DU admission predictor | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **[🛂 BLS Visa Appointment Portal](https://github.com/Daksh12345-del/BLS_USER_INTERNSHIP)** | Multi-step visa portal + admin panel (internship) | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) |
-| **[🌿 GreenPrint](https://github.com/Daksh12345-del/GREEN_PRINT_FRONTEND)** · [live ↗]([https://green-print-frontend.vercel.app](https://greenprint-app.vercel.app/)) | Live carbon/ESG scoring platform | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **[🌿 GreenPrint](https://github.com/Daksh12345-del/GREEN_PRINT_FRONTEND)** · [live ↗](https://greenprint-app.vercel.app/) | Live carbon/ESG scoring platform | ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
 
 ### 🎓 [GradeWallah](https://github.com/Daksh12345-del/GRADEWISE_PROJECT) · [Live ↗](https://www.gradewallah.com)
 
@@ -98,6 +98,17 @@ Built solo during my internship — a multi-step visa application flow with emai
 - Groq API integration for AI-assisted features
 - 7 automated Selenium test cases (login & booking flows)
 - `React.js` · `Express.js` · `PostgreSQL` · `Groq API` · `Selenium`
+
+### 🌿 [GreenPrint](https://github.com/Daksh12345-del/GREEN_PRINT_FRONTEND) · [Live ↗](https://greenprint-app.vercel.app/)
+
+Built a **live carbon footprint & ESG scoring platform** that helps users and businesses track, calculate, and reduce their environmental impact through real-time data-driven insights.
+
+- Real-time carbon footprint calculation & ESG scoring
+- Interactive dashboards for tracking emissions over time
+- Category-wise breakdown (energy, transport, waste, etc.)
+- Personalized recommendations to reduce environmental impact
+- Responsive, fast UI powered by Vite + React
+- `React.js` · `Vite` · `Node.js` · `Tailwind CSS` · `Vercel`
 
 ## 🛠️ Tech Stack
 
