@@ -115,29 +115,48 @@ Built a **live carbon footprint & ESG scoring platform** that helps users and bu
 <div align="center">
 
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,java,cpp,html,css&theme=dark" />
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="48"/><br/><sub><b>JavaScript</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub><b>C++</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="48"/><br/><sub><b>HTML5</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="48"/><br/><sub><b>CSS3</b></sub></td>
+</tr></table>
 
 **Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="48"/><br/><sub><b>Vite</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white" width="90"/><br/><sub><b>Framer Motion</b></sub></td>
+</tr></table>
 
 **Backend & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,aws&theme=dark" />
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/><sub><b>Express</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="48"/><br/><sub><b>Supabase</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"/><br/><sub><b>AWS</b></sub></td>
+</tr></table>
 
 **Testing & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" width="90"/><br/><sub><b>Selenium</b></sub></td>
+<td align="center"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" width="90"/><br/><sub><b>Postman</b></sub></td>
+</tr></table>
 
 **Design**
-<br/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+<table><tr>
+<td align="center"><img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" width="80"/><br/><sub><b>Canva</b></sub></td>
+</tr></table>
 
 </div>
 
@@ -155,7 +174,25 @@ Built a **live carbon footprint & ESG scoring platform** that helps users and bu
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Daksh12345-del)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Daksh12345-del)
+
+</div>
+
+> Note: the official `github-profile-trophy.vercel.app` host is currently overloaded (returns a 402 error for everyone). This uses a community-run mirror instead — if it ever goes down too, swap the domain for another one listed at github.com/ryo-ma/github-profile-trophy.
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Daksh12345-del&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
