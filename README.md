@@ -160,15 +160,19 @@ Built a **live carbon footprint & ESG scoring platform** that helps users and bu
 
 </div>
 
+![header wave](https://capsule-render.vercel.app/api?type=wave&color=0:6C63FF,50:22D3EE,100:9B8CFF&height=100&section=header&animation=fadeIn)
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-virid-one-53.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats-virid-one-53.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/Daksh12345-del)
+[![GitHub Stats](https://github-readme-stats-virid-one-53.vercel.app/api?username=Daksh12345-del&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_color=6C63FF&border_radius=10&cache_seconds=1800)](https://github.com/Daksh12345-del) [![Top Languages](https://github-readme-stats-virid-one-53.vercel.app/api/top-langs/?username=Daksh12345-del&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=22D3EE&border_radius=10&cache_seconds=1800)](https://github.com/Daksh12345-del)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=true)](https://github.com/Daksh12345-del)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daksh12345-del&theme=tokyonight&hide_border=false&border=6C63FF&border_radius=10)](https://github.com/Daksh12345-del)
 
 </div>
+
+![footer wave](https://capsule-render.vercel.app/api?type=wave&color=0:9B8CFF,50:22D3EE,100:6C63FF&height=80&section=footer&animation=fadeIn&reversal=true)
 
 ### ✍️ Random Dev Quote
 
