@@ -170,29 +170,11 @@ Built a **live carbon footprint & ESG scoring platform** that helps users and bu
 
 </div>
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Daksh12345-del&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/Daksh12345-del)
-
-</div>
-
-> Note: the official `github-profile-trophy.vercel.app` host is currently overloaded (returns a 402 error for everyone). This uses a community-run mirror instead — if it ever goes down too, swap the domain for another one listed at github.com/ryo-ma/github-profile-trophy.
-
 ### ✍️ Random Dev Quote
 
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-### 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Daksh12345-del&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
